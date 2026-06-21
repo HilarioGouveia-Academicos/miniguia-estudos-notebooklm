@@ -39,6 +39,19 @@ Para garantir a precisão, o modelo utiliza:
 2.  Interaja com o modelo utilizando **linguagem natural** (como se estivesse conversando com um professor).
 3.  Explore as opções de geração de mídia (vídeos, slides e áudios) para facilitar sua compreensão.
 
+## 🛠️ Conjunto de Prompts Reutilizáveis para Revisão
+Utilize as estruturas de comando abaixo para interagir com modelos de Inteligência Artificial e aprofundar sua rotina de estudos ativamente:
+
+**Prompt 1:** Análise e Identificação de Erros Contábeis (Estudo de Caso)
+"Atue como um especialista em Direito Imobiliário e Auditoria Condominial. Apresente-me um estudo de caso fictício onde um síndico cometeu três erros graves de classificação entre Despesas Ordinárias e Extraordinárias, além de um erro relacionado à LGPD na divulgação da inadimplência. Não me dê as respostas de imediato. Faça perguntas passo a passo para que eu analise e tente identificar quais foram os erros cometidos com base na legislação brasileira."
+
+**Prompt 2:* Simulador de Sabatina de Quóruns e Prazos (Memorização)
+"Quero testar meu conhecimento de memorização sobre a Fundamentação Legal da gestão de condomínios. Faça-me perguntas diretas, uma por vez, abordando os quóruns necessários para destituição, porcentagens para convocação de assembleia por iniciativa dos moradores, prazos de guarda de documentos e as tipificações penais de má gestão. Avalie minhas respostas detalhadamente antes de passar para a próxima pergunta."
+
+**Prompt 3:* Elaboração de Documentos de Conformidade (Prática de Gestão)
+"Atue como um consultor jurídico especializado em proteção de dados. Com base nas regras da LGPD aplicadas ao ambiente condominial, crie um modelo de diretriz/comunicado interno que um síndico possa enviar aos moradores e à administradora explicando exatamente como será feita a prestação de contas digital e quais medidas de segurança foram adotadas para proteger a privacidade dos dados financeiros e evitar exposição vexatória."
+
+
 ## 💻 Tecnologias Utilizadas
 * **NotebookLM** (Google)
 * **IA Generativa**
